@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+只是另一个存储库
+我不知道我在做什么，唉，我也不想写小论文，但是必须得写，一定要写，必须写！
